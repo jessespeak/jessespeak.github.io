@@ -4,10 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
-
-  <!-- Include Google Fonts and any inline CSS here -->
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Roboto+Mono:wght@400&display=swap" rel="stylesheet">
   <style>
+    /* Inline CSS for styling */
     body {
       font-family: 'Roboto Mono', monospace;
       max-width: 700px;
@@ -36,16 +35,13 @@
 </head>
 <body>
   <header>
-    <!-- Back link to return to the article index -->
-    <a href="/" class="back-link">← Back to article index</a>
+    <a href="/" class="back-link">← Back to articles</a>
   </header>
 
   <main>
-    <!-- Post title and date -->
     <h1>{{ page.title }}</h1>
     <p class="post-date">{{ page.date | date: "%B %d, %Y" }}</p>
 
-    <!-- Post content -->
     <div class="post-content">
       {{ content }}
     </div>

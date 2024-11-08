@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "First Post"
-date: 2024-11-07
-description: "This is my first blog post."
-thumbnail: /path/to/thumbnail.jpg
+title: "A philosophy of product design leadership"
+slug: philosophy-product-design-leadership
+description: "Exploring the core values and philosophies that shape effective product design leadership."
 ---

@@ -2,3 +2,16 @@ baseurl: ""
 title: "Articles"
 description: "A simple list of articles"
 theme: jekyll-theme-minimal # Optional: GitHub’s minimal theme
+collections:
+  leadership:
+    output: true
+    permalink: /leadership/:slug/
+  craft:
+    output: true
+    permalink: /craft/:slug/
+  collaboration:
+    output: true
+    permalink: /collaboration/:slug/
+  future:
+    output: true
+    permalink: /future/:slug/
