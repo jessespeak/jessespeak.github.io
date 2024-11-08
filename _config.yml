@@ -1,4 +1,4 @@
 baseurl: ""
-title: "My Blog"
-description: "A simple list of articles"
+title: "Articles"
+description: ""
 theme: jekyll-theme-minimal # Optional: GitHub’s minimal theme
