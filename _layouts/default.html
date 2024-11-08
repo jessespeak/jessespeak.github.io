@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+
+  <!-- Inline CSS in the <head> section -->
+  <style>
+    /* Basic styling for the single-column layout */
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 2em;
+      margin-bottom: 0.5em;
+    }
+
+    p {
+      font-size: 1em;
+      line-height: 1.6;
+    }
+
+    ul.article-list {
+      list-style: none;
+      padding: 0;
+    }
+
+    ul.article-list li {
+      margin-bottom: 2em;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 1em;
+    }
+
+    ul.article-list img.thumbnail {
+      max-width: 100%;
+      height: auto;
+      margin-top: 0.5em;
+    }
+
+    ul.article-list h2 {
+      margin: 0.5em 0;
+    }
+
+    ul.article-list p {
+      margin: 0.5em 0;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>© {{ site.title }} {{ site.time | date: "%Y" }}</p>
+  </footer>
+</body>
+</html>
