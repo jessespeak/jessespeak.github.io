@@ -3,6 +3,5 @@ layout: post
 title: "First Post"
 date: 2024-11-07
 description: "This is my first blog post."
+thumbnail: /path/to/thumbnail.jpg
 ---
-
-Content of your post goes here...
