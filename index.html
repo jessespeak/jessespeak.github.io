@@ -13,7 +13,7 @@ title: "Articles"
 </div>
 
 <h2>Leadership</h2>
-<ul>
+<ul class="article-list">
   {% for post in site.leadership %}
     <li>
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
@@ -23,7 +23,7 @@ title: "Articles"
 </ul>
 
 <h2>Craft</h2>
-<ul>
+<ul class="article-list">
   {% for post in site.craft %}
     <li>
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
@@ -33,7 +33,7 @@ title: "Articles"
 </ul>
 
 <h2>Collaboration</h2>
-<ul>
+<ul class="article-list">
   {% for post in site.collaboration %}
     <li>
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
@@ -43,7 +43,7 @@ title: "Articles"
 </ul>
 
 <h2>Future</h2>
-<ul>
+<ul class="article-list">
   {% for post in site.future %}
     <li>
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
