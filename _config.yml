@@ -1,5 +1,5 @@
 baseurl: ""
-title: "Articles"
+title: "Collected writing"
 description: "A simple list of articles"
 theme: jekyll-theme-minimal # Optional: GitHub’s minimal theme
 collections:
