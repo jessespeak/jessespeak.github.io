@@ -36,6 +36,9 @@ document.addEventListener('DOMContentLoaded', () => {
       const wrapper = document.createElement('div');
       wrapper.classList.add('analysis-section');
 
+      // Insert the wrapper into the DOM before moving content
+      heading.parentNode.insertBefore(wrapper, heading);
+
       // Move the "Analysis" heading itself into the wrapper
       wrapper.appendChild(heading);
 
@@ -46,9 +49,6 @@ document.addEventListener('DOMContentLoaded', () => {
         wrapper.appendChild(sibling); // Move sibling into wrapper
         sibling = nextSibling;
       }
-
-      // Insert the wrapper into the DOM where the heading was
-      heading.parentNode.insertBefore(wrapper, heading.nextElementSibling);
     }
   });
 });
