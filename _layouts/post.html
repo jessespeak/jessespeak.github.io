@@ -40,11 +40,15 @@ document.addEventListener('DOMContentLoaded', () => {
       const innerWrapper = document.createElement('div');
       innerWrapper.classList.add('analysis-section-inner');
 
-      // Move the "Analysis" heading into the inner wrapper
-      innerWrapper.appendChild(heading);
+      // Clone the "Analysis" heading and move it into the inner wrapper
+      const clonedHeading = heading.cloneNode(true);
+      innerWrapper.appendChild(clonedHeading);
+
+      // Remove the original heading to avoid duplication
+      heading.parentNode.removeChild(heading);
 
       // Find all siblings until the next H2 or end of the container
-      let sibling = heading.nextElementSibling;
+      let sibling = clonedHeading.nextElementSibling || heading.nextElementSibling;
       while (sibling && sibling.tagName !== 'H2') {
         const nextSibling = sibling.nextElementSibling;
         innerWrapper.appendChild(sibling); // Move sibling into inner wrapper
