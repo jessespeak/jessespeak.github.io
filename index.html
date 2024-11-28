@@ -15,15 +15,17 @@ title: "Articles"
   {% endfor %}
 </ul>
 
+ {% if site.craft.size > 0 %}
 <h2>Craft</h2>
 <ul class="article-list">
-  {% for post in site.craft %}
+{% for post in site.craft %}
     <li>
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p>{{ post.description }}</p>
     </li>
   {% endfor %}
 </ul>
+{% endif %}
 
 <h2>Collaboration</h2>
 <ul class="article-list">
