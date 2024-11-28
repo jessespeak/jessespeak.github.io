@@ -32,19 +32,29 @@ document.addEventListener('DOMContentLoaded', () => {
   // Loop through headings to find the one with "Analysis"
   headings.forEach((heading) => {
     if (heading.textContent.trim() === 'Analysis') {
-      // Create a wrapper div
+      // Create a wrapper div for the section
       const wrapper = document.createElement('div');
       wrapper.classList.add('analysis-section');
+
+      // Create an inner div for padding
+      const innerWrapper = document.createElement('div');
+      innerWrapper.classList.add('analysis-section-inner');
+
+      // Move the "Analysis" heading into the inner wrapper
+      innerWrapper.appendChild(heading);
 
       // Find all siblings until the next H2 or end of the container
       let sibling = heading.nextElementSibling;
       while (sibling && sibling.tagName !== 'H2') {
         const nextSibling = sibling.nextElementSibling;
-        wrapper.appendChild(sibling); // Move sibling into wrapper
+        innerWrapper.appendChild(sibling); // Move sibling into inner wrapper
         sibling = nextSibling;
       }
 
-      // Insert the wrapper after the "Analysis" heading
+      // Add the inner wrapper to the outer wrapper
+      wrapper.appendChild(innerWrapper);
+
+      // Insert the outer wrapper into the DOM where the heading was
       heading.parentNode.insertBefore(wrapper, heading.nextElementSibling);
     }
   });

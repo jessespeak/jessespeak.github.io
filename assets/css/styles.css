@@ -75,6 +75,16 @@ footer {
   text-decoration: underline;
 }
 .analysis-section {
-  background-color: #f0f8ff; /* Example background color */
-  padding: 10px; /* Optional padding */
+  background-color: #f0f8ff; /* Light blue background */
+  margin: 20px 0; /* Adds spacing between sections */
+  padding: 0; /* No padding on the outer div */
+}
+
+.analysis-section-inner {
+  padding: 15px 20px; /* Internal padding for the background color */
+  background-color: #f0f8ff; /* Same color for inner alignment */
+}
+
+.analysis-section-inner p {
+  margin: 0; /* Align paragraphs properly inside the section */
 }
