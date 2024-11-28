@@ -36,6 +36,9 @@ document.addEventListener('DOMContentLoaded', () => {
       const wrapper = document.createElement('div');
       wrapper.classList.add('analysis-section');
 
+      // Move the "Analysis" heading itself into the wrapper
+      wrapper.appendChild(heading);
+
       // Find all siblings until the next H2 or end of the container
       let sibling = heading.nextElementSibling;
       while (sibling && sibling.tagName !== 'H2') {
@@ -44,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
         sibling = nextSibling;
       }
 
-      // Insert the wrapper after the "Analysis" heading
+      // Insert the wrapper into the DOM where the heading was
       heading.parentNode.insertBefore(wrapper, heading.nextElementSibling);
     }
   });
