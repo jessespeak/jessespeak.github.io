@@ -25,30 +25,30 @@
       <a href="/" class="back-link">← Back to articles</a>
   </main>
     <script>
-  document.addEventListener('DOMContentLoaded', () => {
-    // Find all H2 elements
-    const headings = document.querySelectorAll('article h2');
+document.addEventListener('DOMContentLoaded', () => {
+  // Find all H2 elements within post-content
+  const headings = document.querySelectorAll('.post-content h2');
 
-    // Loop through headings to find the one with "Analysis"
-    headings.forEach((heading, index) => {
-      if (heading.textContent.trim() === 'Analysis') {
-        // Create a wrapper div
-        const wrapper = document.createElement('div');
-        wrapper.classList.add('analysis-section');
+  // Loop through headings to find the one with "Analysis"
+  headings.forEach((heading) => {
+    if (heading.textContent.trim() === 'Analysis') {
+      // Create a wrapper div
+      const wrapper = document.createElement('div');
+      wrapper.classList.add('analysis-section');
 
-        // Find all siblings until the next H2 or end of the article
-        let sibling = heading.nextElementSibling;
-        while (sibling && sibling.tagName !== 'H2') {
-          const nextSibling = sibling.nextElementSibling;
-          wrapper.appendChild(sibling); // Move sibling into wrapper
-          sibling = nextSibling;
-        }
-
-        // Insert the wrapper after the "Analysis" heading
-        heading.parentNode.insertBefore(wrapper, heading.nextElementSibling);
+      // Find all siblings until the next H2 or end of the container
+      let sibling = heading.nextElementSibling;
+      while (sibling && sibling.tagName !== 'H2') {
+        const nextSibling = sibling.nextElementSibling;
+        wrapper.appendChild(sibling); // Move sibling into wrapper
+        sibling = nextSibling;
       }
-    });
+
+      // Insert the wrapper after the "Analysis" heading
+      heading.parentNode.insertBefore(wrapper, heading.nextElementSibling);
+    }
   });
+});
 </script>
 </body>
 </html>
