@@ -75,16 +75,7 @@ footer {
   text-decoration: underline;
 }
 .analysis-section {
-  background-color: #f0f8ff; /* Light blue background */
-  margin: 20px 0; /* Adds spacing between sections */
-  padding: 0; /* No padding on the outer div */
-}
-
-.analysis-section-inner {
-  padding: 15px 20px; /* Internal padding for the background color */
-  background-color: #f0f8ff; /* Same color for inner alignment */
-}
-
-.analysis-section-inner p {
-  margin: 0; /* Align paragraphs properly inside the section */
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
 }
