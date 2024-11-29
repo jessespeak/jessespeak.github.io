@@ -65,8 +65,8 @@ footer {
 .bio-thumbnail {
   width: 128px;
   height: 152px;
-  border-radius: 50%;
   margin-left: 15px;
+    margin-right: 20px;
 }
 .bio-text {
   flex: 1;
