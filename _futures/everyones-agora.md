@@ -6,8 +6,6 @@ description: "How individually-tailored learning environments can transform educ
 set_date: "2050-01-01"
 ---
 
-**2050 CE**
-
 Arya wandered through the Agora, the morning sun casting long shadows across the plaza. The space thrummed with quiet energy, clusters of children, teens, and adults forming and reforming like eddies in a stream. There were no bells, no schedules—just a persistent, gentle sense of discovery.
 
 Her AI assistant, Nia, murmured softly. “Morning, Arya. The History Puzzle has just started in the East Pavilion. A sports team in the park is short one player if you’re interested. Also, Kiran’s group is rebuilding their factory design.”

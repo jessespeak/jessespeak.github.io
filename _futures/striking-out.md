@@ -6,8 +6,6 @@ description: "How safe and frictionless travel transforms the social contract"
 set_date: "2035-01-01"
 ---
 
-**2035 CE**
-
 Jamie slung his backpack over his shoulder, practically bouncing out the door. The pod waited silently at the curb, its door already open, the soft glow of its interior lighting up the early morning mist.
 
 “Off we go, Jamie!” said Kai, his personal AI assistant, as his wristband chimed softly. “The station’s 23 minutes away. Everything’s running smoothly.”

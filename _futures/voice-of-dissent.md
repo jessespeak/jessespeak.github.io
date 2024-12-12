@@ -6,8 +6,6 @@ description: "How AI might transform powerful, disruptive dissent into a dialogu
 set_date: "2040-01-01"
 ---
 
-**2040 CE**
-
 Lena leaned against the overpass railing, her fingers trembling as she tapped the final command into her wristband. Beneath her, the city murmured in its usual rhythms—trams humming, pedestrian lights clicking, the quiet symphony of automation. Soon, it would all break.
 
 Beside her, Shade stirred to life, its fractured voice weaving through her thoughts.

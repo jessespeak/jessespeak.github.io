@@ -6,8 +6,6 @@ description: "How AI might play a role in helping the elderly retain dignity and
 set_date: "2040-01-01"
 ---
 
-**2040 CE**
-
 Liam squinted at the woman standing in front of him, a neatly dressed stranger with a hopeful smile. She was clearly nervous, clutching a plate of cookies like a lifeline.
 
 “This is Mr. O’Hara,” Mrs. Patel said, her voice warm as she introduced the new resident. “Our courtyard sage.”

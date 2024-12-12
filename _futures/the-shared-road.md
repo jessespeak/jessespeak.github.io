@@ -6,8 +6,6 @@ description: "How AI will step back and make room for the human experience."
 set_date: "2100-01-01"
 ---
 
-**2100 CE**
-
 Lea had been walking for months. The roads unfolded before her like quiet invitations, and she followed without hesitation, trusting her steps to lead her somewhere worth being. Every place she passed through had its own rhythm—a bakery where the air shimmered with the scent of fresh bread, a field dotted with workers laughing as they gathered crops, a quiet village where the only sound was the wind in the trees. She moved through it all, pausing just long enough to help where help was needed, to listen where there were stories, to rest where there was warmth.
 
 Her bag was light, its contents pared down to essentials: a few changes of clothes, a journal with half its pages still blank, and small things she couldn’t bear to part with. The rest of what she needed always seemed to arrive when she needed it. A bed. A meal. A task that filled her hands and heart.

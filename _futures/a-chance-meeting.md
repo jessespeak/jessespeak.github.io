@@ -6,8 +6,6 @@ description: "How AI can collaborate to create moments of serendipity"
 set_date: "2035-01-01"
 ---
 
-**2035 CE**
-
 On a whim, Nate found himself at the botanical gardens on a cool spring morning. He wasn’t particularly a plant enthusiast, but his AI, Kye, had suggested it.
 
 “Sunlight’s good for your mood,” Kye had said, his tone calm and measured. “And there’s a photography exhibition in the glasshouse. Worth checking out.”
