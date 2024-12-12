@@ -3,6 +3,7 @@ layout: post
 title: "A chance meeting"
 slug: chance-meeting
 description: "How AI can collaborate to create moments of serendipity"
+set_date: "2035-01-01"
 ---
 
 **2035 CE**

@@ -3,6 +3,7 @@ layout: post
 title: "Universal basic meaning"
 slug: universal-basic-meaning
 description: "How we might offer people meaning by connecting individual actions to national strategies"
+set_date: "2040-01-01"
 ---
 
 **2040 CE**

@@ -3,6 +3,7 @@ layout: post
 title: "The shared road"
 slug: shared-road
 description: "How AI might play a role in helping the elderly retain dignity and independence."
+set_date: "2100-01-01"
 ---
 
 **2100 CE**

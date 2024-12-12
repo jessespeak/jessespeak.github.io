@@ -3,6 +3,7 @@ layout: post
 title: "A quiet companion"
 slug: quiet-companion
 description: "How AI might play a role in helping the elderly retain dignity and independence."
+set_date: "2040-01-01"
 ---
 
 **2040 CE**

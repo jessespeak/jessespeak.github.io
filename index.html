@@ -8,10 +8,11 @@ title: "Articles"
 <!-- Single-column layout with a unified list of articles -->
 <h2>Futures</h2>
 <ul class="article-list">
-  {% for post in site.futures %}
+{% assign sorted_posts = site.futures | sort: 'set_date' %}
+{% for post in sorted_posts %}
     <li>
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <p>{{ post.description }}</p>
+      <p><strong>{{ post.set_date | date: "%Y CE" }}</strong> - {{ post.description }}</p>
     </li>
   {% endfor %}
 </ul>

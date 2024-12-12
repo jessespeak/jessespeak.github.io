@@ -3,6 +3,7 @@ layout: post
 title: "The disappearing interface"
 slug: disappearing-interface
 description: "How personal AI assistants will transform our multiverse of interfaces."
+set_date: "2030-01-01"
 ---
 
 **2030 CE**

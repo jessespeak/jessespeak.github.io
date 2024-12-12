@@ -3,6 +3,7 @@ layout: post
 title: "Voice of dissent"
 slug: voice-of-dissent
 description: "How AI might transform powerful, disruptive dissent into a dialogue"
+set_date: "2040-01-01"
 ---
 
 **2040 CE**

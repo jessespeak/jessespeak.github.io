@@ -3,6 +3,7 @@ layout: post
 title: "Striking out"
 slug: striking-out
 description: "How safe and frictionless travel transforms the social contract"
+set_date: "2035-01-01"
 ---
 
 **2035 CE**

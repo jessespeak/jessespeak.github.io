@@ -3,6 +3,7 @@ layout: post
 title: "Everyone's Agora"
 slug: everyones-agora
 description: "How individually-tailored learning environments can transform education"
+set_date: "2050-01-01"
 ---
 
 **2050 CE**
