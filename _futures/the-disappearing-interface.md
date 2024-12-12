@@ -5,6 +5,8 @@ slug: disappearing-interface
 description: "How personal AI assistants will transform our multiverse of interfaces."
 ---
 
+**2030 CE**
+
 Meet Alex. A busy professional and frequent traveler, Alex has been relying on the same battered suitcase for years. As he pulls it out of storage to prepare for an upcoming trip, the handle creaks ominously, and one corner seems to have collapsed entirely. “I think this thing’s finally giving up,” Alex says aloud, half to himself, half to his ever-present AI assistant, Eko.
 
 Eko chimes in immediately. “It might be time for a replacement. Would you like me to find one for your trip?”

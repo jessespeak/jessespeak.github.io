@@ -5,6 +5,8 @@ slug: universal-basic-meaning
 description: "How we might offer people meaning by connecting individual actions to national strategies"
 ---
 
+**2040 CE**
+
 Mara tilted her phone, scanning the alley behind the corner café. On her screen, the AI overlay filled the space with potential: wildflowers sprouted in cracks, climbing ivy draped across brick walls, and a birdbath gleamed under a patch of imagined sunlight.
 
 “This could work,” she murmured.

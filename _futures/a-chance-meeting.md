@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Meeting by design"
-slug: meeting-by-design
-description: "A chance encounter sparks curiosity and interest. But was it really chance?"
+title: "A chance meeting"
+slug: chance-meeting
+description: "How AI can collaborate to create moments of serendipity"
 ---
+
+**2035 CE**
 
 On a whim, Nate found himself at the botanical gardens on a cool spring morning. He wasn’t particularly a plant enthusiast, but his AI, Kye, had suggested it.
 
