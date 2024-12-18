@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The disappearing interface"
-slug: disappearing-interface
-description: "How personal AI assistants will transform our multiverse of interfaces."
+title: "The interface singularity"
+slug: the-interface-singularity
+description: "How personal AI assistants will challenge our multiverse of interfaces."
 set_date: "2030-01-01"
 ---
 
@@ -52,12 +52,10 @@ This scenario may feel futuristic, but the technology to make it real is already
 
 This has profound implications for the traditional practice of  designing, developing, and delivering products and services. For decades, we’ve honed the craft of creating interfaces to engage users—crafting compelling websites, useful apps, and intuitive customer journeys. But as personal AI assistants emerge they’ll be able to bypass the elaborate brand and information environments we’ve painstakingly built and served up.
 
-### The primacy of product-user fit
 In a world where every potential customer’s personal AI assistant evaluates all products based on granular data, the primary path to brand success is by delivering on user needs and expectations. Once a product manufacturer or service provider can connect (considerately, with permission!) to each of their customers’ personal AI assistants, they will be able to analyse and improve every aspect of their customer experience in full. A richly detailed and fully representative body of insight around consumer intent, purchase and usage will have a profound and disruptive effect on market forces.
 
 An AI’s consideration set can be the entire market, and will prioritise the attributes (from the manufacturer’s API) and qualities (from trusted feedback mechanisms) that will meet requirements and satisfy an individual’s preferences. Personal AI assistants can therefore be purposefully blind to marketing effort—resisting attempts to manipulate via cognitive biases and emotional appeal. Mass advertising campaigns and mindshare-building efforts will fade as a brand realises the power of engaging its customers (actual and prospective) in a 1:1 conversation 24/7.
 
-### The interface singularity
 Once people start to delegate tasks to their AI assistants, the need for our current multiverse of human-to-system interfaces—websites, apps, support centres and dashboards—will decline sharply. This will manifest as a fundamental pivot from brands owning and serving their own interface(s) to enabling their customers’ primary interface: their personal AI assistant. Brands which offer robust, well-documented APIs that communicate their offering and open up their processes to agentic AI will thrive.
 
 Consider all the thousands of interaction patterns we’ve developed over time, the design systems, front-end frameworks, information architecture, brand systems and so forth. What happens when the user can describe what they need and a preferred way to consume the information which informs their decision? One user with accessibility needs might benefit from a full voice modality. Another might require a purely visual modality. Yet another might want suitcase options described in a way that speaks to them. *Suitcase 2 is like a Ford Focus - the sensible, family-friendly choice that won’t break the bank but probably won’t excite.*
