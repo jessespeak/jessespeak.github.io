@@ -1,5 +1,5 @@
 baseurl: ""
-title: "Collected writing"
+title: "Optimistic Futures"
 description: "A simple list of articles"
 theme: jekyll-theme-minimal # Optional: GitHub’s minimal theme
 collections:
