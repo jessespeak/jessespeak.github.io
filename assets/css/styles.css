@@ -30,10 +30,11 @@ h1 {
 h1.site-title {
   /* Positioning and layout */
   display: block;
-  width: 100%; /* Match the content width */
-  max-width: 700px; /* Align with your content area */
-  height: auto;
-  margin: 0 auto 1em; /* Center and space below */
+  width: auto;
+  max-width: 660px; /* Align with your content area */
+  height: 91px;
+  padding: 0;
+  margin: 0 20px 0.5em; /* Center and space below */
   text-indent: -9999px; /* Hide text visually while keeping it accessible */
   white-space: nowrap; /* Prevent text wrapping */
   overflow: hidden;
