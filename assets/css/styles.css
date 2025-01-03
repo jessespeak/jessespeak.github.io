@@ -44,7 +44,7 @@ h1.site-title {
   background-size: contain; /* Scale image to fit */
   background-repeat: no-repeat;
   background-position: center;
-  height: 150px; /* Set height to match image height */
+  height: auto; /* Set height to match image height */
 }
 h2 {
   font-size: 1.5em;
