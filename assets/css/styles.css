@@ -27,6 +27,24 @@ h1 {
   font-size: 2.5em;
   margin-bottom: 0.75em;
 }
+h1.site-title {
+  /* Positioning and layout */
+  display: block;
+  width: 100%; /* Match the content width */
+  max-width: 700px; /* Align with your content area */
+  height: auto;
+  margin: 0 auto 1em; /* Center and space below */
+  text-indent: -9999px; /* Hide text visually while keeping it accessible */
+  white-space: nowrap; /* Prevent text wrapping */
+  overflow: hidden;
+
+  /* Background image */
+  background-image: url('/assets/optimistic-futures-logo.png');
+  background-size: contain; /* Scale image to fit */
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 150px; /* Set height to match image height */
+}
 h2 {
   font-size: 1.5em;
   margin-bottom: 0.5em;
