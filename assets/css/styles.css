@@ -76,6 +76,15 @@ ul.article-list h3 {
 ul.article-list p {
   margin: 0.5em 0;
 }
+ul.article-list p.year {
+    font-size: 0.7em;
+    font-weight: 800;
+    background-color: #eee;
+    color: #333;
+    padding: 0px 4px;
+    border-radius: 5px;
+    font-family: "Saira Condensed", serif;
+}
 footer {
   text-align: center;
   font-size: 0.9em;
