@@ -11,7 +11,7 @@ title: "Articles"
 {% assign sorted_posts = site.futures | sort: 'set_date' %}
 {% for post in sorted_posts %}
     <li>
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <p><strong>{{ post.set_date | date: "%Y CE" }}</strong></p>
         <p>{{ post.description }}</p>
     </li>
