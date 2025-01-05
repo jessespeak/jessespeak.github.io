@@ -12,8 +12,7 @@ title: "Articles"
 {% for post in sorted_posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <p><strong>{{ post.set_date | date: "%Y CE" }}</strong></p>
-        <p>{{ post.description }}</p>
+        <p><span class="date">{{ post.set_date | date: "%Y CE" }}</span> {{ post.description }}</p>
     </li>
   {% endfor %}
 </ul>
