@@ -76,7 +76,7 @@ ul.article-list h3 {
 ul.article-list p {
   margin: 0.5em 0;
 }
-ul.article-list p.year {
+ul.article-list p span.year {
     font-size: 0.7em;
     font-weight: 800;
     background-color: #eee;
