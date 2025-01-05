@@ -1,9 +1,10 @@
 
 /* Global Styles */
     body {
-    font-family: "Noto Sans", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+    font-family: "Quicksand", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: 400;
       max-width: 700px;
       margin: 0 auto;
       padding: 20px;
@@ -20,8 +21,8 @@ li {
     padding-right: 20px;
 }
     h1, h2, h3 {
-  font-family: "Noto Serif", serif;
-  font-weight: 500;
+  font-family: "Bowlby One SC", serif;
+  font-weight: 400;
   font-style: normal;
 }
 h1 {
