@@ -8,6 +8,11 @@
       margin: 0 auto;
       padding: 20px;
     }
+a, a:visited {
+    color:#FF2600;
+    text-decoration: none;
+    text-transform: capitalize;
+}
 a.back-link {
     margin: 20px 0;
 }
