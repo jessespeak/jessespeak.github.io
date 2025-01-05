@@ -69,12 +69,12 @@ ul.article-list {
 ul.article-list li {
   margin-bottom: 1.5em;
 }
-ul.article-list h3 {
+ul.article-list h2 {
   font-size: 1.2em;
   margin: 0;
 }
 ul.article-list p {
-  margin: 0.5em 0;
+  margin: 0 0 0.5em 0;
 }
 ul.article-list p span.year {
     font-size: 0.7em;
