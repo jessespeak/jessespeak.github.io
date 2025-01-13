@@ -89,5 +89,5 @@ In a world where technology often feels distant and abstract, engaging with tang
 ## Thinking points
 
 * Obviously some types of work can be dangerous if approached without care or adequate safety consideraton. Accidents happen. A non-physical AI cannot intervene directly, so there would have to be safeguards and clarity around responsibility.
-* If everyone starts feeling more confident and starts undertaking significant DIY projects by themselves, perhaps this will simply raise the bar and tradespeople will find themselves equally busy but focussing on key specifics or the more ambitious projects.
+* If everyone starts feeling more confident and starts undertaking significant DIY projects by themselves, perhaps this will simply raise the bar and tradespeople will find themselves equally busy but focussing on key points or more ambitious projects.
 * Not everyone is a starter/finisher, so this might lead to a lot of half-finished projects. Is that a problem though? If a kitchen refit spreads out over the course of a year but the owner is fine working in an unhurried way, that’s surely fine. AI can insist on getting the essentials in place: safety, security and reliability.
