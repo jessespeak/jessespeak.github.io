@@ -2,7 +2,7 @@
 layout: post
 title: "Full representation"
 slug: full-representation
-description: "How AI can engage with every citizen to craft policy."
+description: "How AI can engage with every citizen to craft policy"
 set_date: "2030-01-01"
 ---
 
@@ -92,8 +92,6 @@ There are challenges to this vision. People may initially resist engaging, doubt
 
 ## Thinking points
 
-We expect consideration to have a period of being ‘active’ before policy turns to delivery, but is that necessary here? A new form of policy development might be continuously emergent, responsive and transparent.
-
-What safeguards are needed to ensure transparency and accountability in these systems? As we begin to reliably involve and represent every citizen through the use of AI, it’s hard to imagine what local political figures and national political parties will add. Is hive consensus enough?
-
-How might cross-border collaboration work in addressing global issues using these methods? Responses to global issues like climate change don’t benefit from borders but rather collective alignment and action between nations.
+* We expect consideration to have a period of being ‘active’ before policy turns to delivery, but is that necessary here? A new form of policy development might be continuously emergent, responsive and transparent.
+* What safeguards are needed to ensure transparency and accountability in these systems? As we begin to reliably involve and represent every citizen through the use of AI, it’s hard to imagine what local political figures and national political parties will add. Is hive consensus enough?
+* How might cross-border collaboration work in addressing global issues using these methods? Responses to global issues like climate change don’t benefit from borders but rather collective alignment and action between nations.
