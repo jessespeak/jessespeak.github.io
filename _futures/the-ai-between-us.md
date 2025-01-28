@@ -8,11 +8,11 @@ set_date: "2030-01-01"
 
 Mia stared at the cold remains of her breakfast, the plate half finished. Her phone buzzed on the counter, but she didn’t reach for it. She already knew it wasn’t anyone she wanted to hear from—least of all her mum. They hadn’t spoken since that disastrous dinner three months ago.
 
-“Helen messaged again,” Juni said, her voice calm. “Do you want to see it?”
+“Helen messaged again,” her personal AI assistant Juni said, its voice calm. “Do you want to see it?”
 
 Mia leaned back in her chair. “No. She’ll just guilt-trip me. I’m not in the mood.”
 
-Juni paused, as if considering her words. “She said she’d like to understand what happened. She asked me to connect with Vera to help her figure out how to reach you.”
+Juni paused, as if considering its words. “She said she’d like to understand what happened. She asked me to connect with Vera to help her figure out how to reach you.”
 
 Mia shook her head. “No. I don’t want you talking to her AI. She’ll just use it to try to control me again.”
 
@@ -22,7 +22,7 @@ Mia hesitated, her fingers drumming on the table. “Fine. But don’t promise h
 
 “Understood,” Juni said softly.
 
-A few miles away, Helen sat at her desk, staring at an old photo of Mia on her screen. “I’ve lost her, Vera. She doesn’t even look at my messages anymore. What am I supposed to do?”
+A few miles away, Helen sat at her desk, staring at an old photo of Mia on her screen and talking with her own personal AI. “I’ve lost her, Vera. She doesn’t even look at my messages anymore. What am I supposed to do?”
 
 “I know you want to reach her,” Vera said gently. “But I think she feels too hurt and mistrustful to respond right now.”
 
@@ -52,7 +52,7 @@ Mia set her phone down and stared at the ceiling. “If I say anything, she’ll
 
 Mia chewed her lip. “I don’t know.”
 
-“It’s entirely up to you,” Juni said. “You can take as much time as you need. She’s the one waiting now.”
+“It’s entirely up to you,” Juni said. “You can take as much time as you need.”
 
 Mia let out a slow breath. “Okay. Tell her I’ll think about it. But that’s all for now.”
 
@@ -70,19 +70,17 @@ As tempting as this sounds, it raises questions about trust, privacy, and the es
 
 Think about the last time you had to write a tricky email. Perhaps it was to apologise to a colleague, negotiate with a client, or address a sensitive misunderstanding. If you’ve ever asked an LLM to help draft such a message, then you’ve already dipped your toe into this future. Just imagine scaling that experience up—beyond emails and into the deeper complexities of everyday human relationships, and without the friction of all that manual copy-and-pasting.
 
-The nature of such mediation matters deeply. Should it emerge from the direct interactions of personal AI assistants, or from a separate, neutral third-party AI? Personal assistants already know their humans well, which might make them better at framing conversations in ways that resonate. But in cases where stakes are high, like legal disputes or workplace conflicts, a recognised third-party mediator might feel more impartial and credible. Both approaches have implications for trust and fairness, particularly if we begin to rely on AI systems to navigate increasingly sensitive territory.
+The nature of such mediation matters deeply. Should it emerge from the direct interactions of personal AI assistants, or from a separate, neutral third-party AI? Personal assistants already know ‘their’ humans well, which might make them better at framing conversations in ways that resonate. But in cases where stakes are high, like legal disputes or workplace conflicts, a recognised third-party mediator might feel more impartial and credible. Both approaches have implications for trust and fairness, particularly if we begin to rely on AI systems to navigate increasingly sensitive territory.
 
-Privacy and permissions are important, especially when relationships involve power imbalances, such as between a parent and a child. Should a parent’s AI have privileged access to their child’s AI? If so, under what circumstances? Such access could be seen as a necessary safeguard in some situations, but it also risks undermining the child’s autonomy and trust in their own AI. Consent, transparency, and the boundaries of parental oversight are highly-complex considerations.
+Privacy and permissions are important, especially when relationships involve power imbalances, such as between a parent and a child. Should a parent’s AI have privileged access to their child’s AI? If so, under what circumstances? Such access could be seen as a necessary safeguard in some situations, but it also risks undermining the child’s autonomy and trust in their own AI. Consent, transparency, and the boundaries of parental oversight are complex considerations.
 
 In the workplace, the role of AI mediation could extend beyond resolving disputes. Imagine job interviews becoming obsolete, replaced by AI systems that broker matches between candidates and employers. This might streamline hiring processes and reduce bias, but it also raises questions about individuality and human judgement. Could an AI ever fully understand the intangible qualities that make someone a good fit for a role?
 
 If every interaction, every disagreement, and every relationship were filtered through AI, it feels obvious that we would lose something vital from the mix. Human relationships thrive on connection, spontaneity, and often the friction of disagreement sparks growth. If personal AI assistants become the default brokers of our interactions, we might find ourselves less willing to engage directly, letting technology take on the emotional labour we used to shoulder ourselves. This could lead to a more detached, transactional approach to relationships, where the richness of human connection is diminished.
 
-But that’s hardly an optimistic future. 
-
-So here’s a provocative thought: imagine a society where everyone has—after a period of pervasive AI mediation—reached a baseline aptitude for healthy communication and self-representation. They might look back on us with a sort of curious horror. *They used to say WHAT to each other?!* Perhaps the optimistic take is to imagine this period of AI mediation organically fading away, able to take a back seat once humans have gotten their act together.
+But that’s hardly an optimistic future. So here’s a provocative thought: imagine a society where everyone has—after an extended period of pervasive AI mediation—reached a baseline aptitude for healthy communication and self-representation. They might look back on us with a sort of curious horror. *They used to say WHAT to each other?!* Perhaps the optimistic take is to imagine this period of AI mediation organically fading away from much of the day-to-day, taking a back seat once we humans have gotten our act together. AI can still be there to mediate big (or boring) things, allowing us to fully lean in to the meaningful stuff of life.
 
 ## Thinking points
 
-* How might AI handle raw emotion? Intense anger, guilt or sadness - particularly when we’re not thinking straight. Perhaps the AI might serve us best by being a patient, unflappable, neutral companion. In short, by being obviously an AI rather than trying to match our energy and humanity.
-* Will AIs ‘take sides’? Each personal AI will have a far greater alignment with their human. Where do the limits of effective AI mediation lie - disagreements based on subjective taste? Situations where real harm is unlikely?
+* How might AI handle raw emotion? Intense anger, guilt or sadness - particularly when we’re not thinking straight. Perhaps the AI might serve us best by being a patient, unflappable, neutral companion. In short, by being obviously an AI rather than trying to match our energy and emotion.
+* Will AIs ‘take sides’? Each personal AI will have a far greater alignment with their human. Where do the limits of effective AI mediation lie - disagreements based on subjective taste? Situations where actual harm is unlikely?
