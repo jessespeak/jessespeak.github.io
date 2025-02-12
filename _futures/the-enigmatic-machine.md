@@ -94,7 +94,7 @@ Tom kept staring at the screen, as if trying to see through it. “I disagree,�
 
 Liam breathed out heavily. He tapped his finger against his chin. “No, no of course. I’m... not sure where I am with all this,” he began, “it was both impressive and, frankly, existentially terrifying. I’m going to spend a good few days reviewing its output to see what on earth it came up with.”
 
-Analysis
+## Analysis
 
 This year, AI promises to become an active participant in shaping codebases, making architectural decisions, and managing deployment. I’ve chosen to focus this future fiction scenario on the engineering side of software development because it looks increasingly likely to be the tipping point. Software development as a cluster of adjacent professional skills (product, design, engineering, marketing, sales etc.) is on the cusp of big change. The transition is likely to be a choppy crossing of uncharted waters for all of these roles. It’s hard to imagine an optimistic future until we reach the other side and start to experience shared benefits, so this scenario differs from my usual fare by looking only a few years ahead.
 
