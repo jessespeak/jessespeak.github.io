@@ -116,7 +116,7 @@ I doubt this will end up being the way embodied AI manifests in the longer term,
 
 My optimistic futures so far all involve ubiquitous powerful AI that isn’t embodied. It’s a world that remains full of humans, but we’re all enabled and supported by a pervasive distributed mesh of intelligence that doesn’t intrude directly on the physicality of everyday life. Behind the scenes there are likely to be embodied AI agents farming, producing goods in factories, securing our streets, mining for resources, cleaning our environment and so forth. I just don’t imagine these ultimately benefitting from a general purpose human form factor.
 
-### References
+## References
 
 [^1]: Humanoids Market Size & Share Analysis - Industry Research Report. [Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/humanoids-market).
 [^2]: Top robotics startup trends to watch in 2025: The humanoid revolution. [Startups Magazine](https://startupsmagazine.co.uk/article-top-robotics-startup-trends-watch-2025-humanoid-revolution-here).
