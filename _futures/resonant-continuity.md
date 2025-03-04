@@ -86,9 +86,9 @@ Sam and Theo continued drawing and talking long into the evening, a life fully l
 
 ## Analysis
 
-Wearable technology has a long history from the invention of the eyeglasses in 1286, through small form factor timepieces and hearing aids all the way to the advent of modern fitness and sleep trackers.
+Wearable technology has a long history from the invention of the eyeglasses in 1286 CE, through the rise of small form factor timepieces and hearing aids all the way to the advent of modern fitness and sleep trackers.
 
-These devices are becoming personal. Increasingly they continuously collect, aggregate and store data 24/7. With the Samsung Galaxy Gear in 2013 and the Apple Watch in 2015, these devices began to join up biometric data with general-purpose mobile computing and the internet. In the intelligence age, AI is stepping firmly into this space with devices such as Bee, the LUCI pin, Meta’s Ray-Bans and Amazon’s Echo Frames. A mix of vision and audio capture capability in these devices will over the next year or two, ready to be transformed by AI. It’s fascinating to think where we’ll be once the product-market fit settles into place.
+These devices are becoming personal. Increasingly they continuously collect, aggregate and store data 24/7. With the Samsung Galaxy Gear in 2013 and the Apple Watch in 2015, these devices began to join up biometric data with general-purpose mobile computing and the internet. In the intelligence age, AI is stepping firmly into this space with devices such as Bee, the LUCI pin, Meta’s Ray-Bans and Amazon’s Echo Frames. A mix of vision and audio capture capability in these devices will mature over the next year or two, ready to be transformed by AI. It’s fascinating to think where we’ll be once the product-market fit settles into place.
 
 This story is set decades in the future and assumes a highly capable and reliable personal AI that has served as a life logging device for the recently departed James. It’s not a digital twin - that concept feels *questionable*. Instead, it’s an intimate companion that has accompanied James for so long that it practically knows everything about him. A completely judgement-free, private and personal life log with contextual awareness and high emotional intelligence.
 
